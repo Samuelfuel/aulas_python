@@ -18,4 +18,5 @@ imc=peso/(altura**2) #calculo do imc
 
 print(f"IMC: {imc:.2f}")
 
+
 print("IMC: "+ str(round(imc,2))) #impressao do imc (resultado)
